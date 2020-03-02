@@ -28,6 +28,7 @@ while True:
 - While loop continues into Output section.
 
 ## Tools 
+- Visual Studio Code
 - HTMLParser
 - BeautifulSoup
 
