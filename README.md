@@ -1,4 +1,4 @@
-#Web Scraper Magic Happens Documentation
+# Web Scraper Magic Happens Documentation
 ## Link to Web Scarper Repository
 [Link](https://github.com/wulfshadow/2020-Group-Web-Scraper)
 
