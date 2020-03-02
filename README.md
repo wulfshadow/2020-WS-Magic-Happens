@@ -27,7 +27,7 @@ while True:
 - if current_count variable (which was earlier set equal to get_count()) does not equal page_count varaible (the original variable that the scraper data is stored under) "Changed" is printed in the terminal.
 - While loop continues into Output section.
 
-## Tools 
+## Tools (Specifically for Magic Happens Section)
 - Visual Studio Code
 - HTMLParser
 - BeautifulSoup
