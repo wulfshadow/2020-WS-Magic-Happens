@@ -1,6 +1,6 @@
 # Web Scraper Magic Happens Documentation
 [Web Scraper Repository](https://github.com/wulfshadow/2020-Group-Web-Scraper)
-##Magic Happens Code
+## Magic Happens Code
 ```
 #MAGIC HAPPENS
 def get_count():
