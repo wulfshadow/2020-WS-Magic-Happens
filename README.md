@@ -1,5 +1,5 @@
 # Web Scraper Magic Happens Documentation
-[Web Scraper Repository](https://github.com/wulfshadow/2020-Group-Web-Scraper)
+[Full Web Scraper Repository](https://github.com/wulfshadow/2020-Group-Web-Scraper)
 ## Magic Happens Code
 ```
 #MAGIC HAPPENS
