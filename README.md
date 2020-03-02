@@ -1,8 +1,21 @@
-## Welcome to GitHub Pages
+#Web Scraper Magic Happens Documentation
 
-You can use the [editor on GitHub](https://github.com/wulfshadow/2020-WS-Magic-Happens/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+```
+#MAGIC HAPPENS
+def get_count():
+    page_response = requests.get(page_link, timeout=5)
+    page_count = BeautifulSoup(page_response.content, "html.parser")
+    count = len(page_count.find_all('br'))
+    print count
+    return(count)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+current_count = get_count()
+
+while True:
+    page_count = get_count()
+    if(current_count != page_count):
+        print("Changed")
+```        
 
 ### Markdown
 
