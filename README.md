@@ -35,7 +35,7 @@ while True:
 ## Techniques
 - While Loop (first part of it, second part becomes output)
 - len function
-- find.all function
+- find_all function
 
 ## Reference sites
 - [https://docs.python.org/2/library/htmlparser.html](https://docs.python.org/2/library/htmlparser.html)
